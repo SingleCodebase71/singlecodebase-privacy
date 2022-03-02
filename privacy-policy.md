@@ -31,6 +31,14 @@ We may employ third-party companies and individuals due to the following reasons
 
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
+### AdMob by Google
+AdMob by Google is provided by Google Inc.
+For more information on how Google uses the collected information, please visit the "How Google uses data when you use our partners' sites or app" page: https://policies.google.com/technologies/partner-sites or visit the Privacy Policy of Google: https://policies.google.com/privacy
+
+### LEGAL BASIS
+When processing personal data that is required to fulfill a contract with the user, point (b) of paragraph 1 of article 6 of the GDPR serves as the legal basis.
+If the processing is necessary to account for the legitimate interests of our company or a third party and if these interests are not overridden by interests of the user, the legal basis is provided by point (f) of paragraph 1 of article 6 of the GDPR.
+
 ### Security  
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
 
