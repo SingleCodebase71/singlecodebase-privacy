@@ -16,9 +16,6 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
-
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
@@ -30,10 +27,6 @@ We may employ third-party companies and individuals due to the following reasons
 * To assist us in analyzing how our Service is used.  
 
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
-
-### AdMob by Google
-AdMob by Google is provided by Google Inc.
-For more information on how Google uses the collected information, please visit the "How Google uses data when you use our partners' sites or app" page: https://policies.google.com/technologies/partner-sites or visit the Privacy Policy of Google: https://policies.google.com/privacy
 
 ### LEGAL BASIS
 When processing personal data that is required to fulfill a contract with the user, point (b) of paragraph 1 of article 6 of the GDPR serves as the legal basis.
